@@ -83,10 +83,11 @@ span{
     z-index:-1;
     transition:0.5s;
 }
-button:hover span{
-    width:100%;
+button[type="button"]:first-child:hover {
+    background-color: #009688; /* Change the background color on hover */
+    color: #fff; /* Change the text color on hover */
 }
-border:hover{
-    border:none;
-
+button[type="button"] a:hover {
+    background-color: #009688; /* Change the background color on hover */
+    color: #fff; /* Change the text color on hover */
 }
