@@ -71,6 +71,15 @@ button{
     cursor:pointer;
     position:relative;
     overflow:hidden;
+    button:hover {
+    background-color: #009688; /* Change the background color on hover */
+    color: #fff; /* Change the text color on hover */
+                }
+button:hover {
+    background-color: #009688; /* Change the background color on hover */
+    color: #fff; /* Change the text color on hover */
+            }
+    
 }
 span{
     background: #009688;
