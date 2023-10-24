@@ -88,11 +88,8 @@ span{
 button:hover span{
     width:100%;
     
-    background-color: #009688; /* Change the background color on hover */
-    color: #fff; /* Change the text color on hover */
+    
 }
 button:hover {
     border:none;
-    background-color: #009688; /* Change the background color on hover */
-    color: #fff; /* Change the text color on hover */
 }
